@@ -21,6 +21,7 @@ $ source aliases.sh
 | `yt`  | `yarn test` |
 | `yit`  | `yarn install && yarn test` |
 | `yl`  | `yarn link` |
+| `yu` | `yarn unlink` |
 
 ## License
 
