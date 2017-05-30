@@ -19,6 +19,8 @@ $ source aliases.sh
 | `yga`  | `yarn global add` |
 | `yr`  | `yarn run` |
 | `yre`  | `yarn run example` |
+| `ys`  | `yarn start` |
+| `yis`  | `yarn install && yarn start` |
 | `yt`  | `yarn test` |
 | `yit`  | `yarn install && yarn test` |
 | `yl`  | `yarn link` |
